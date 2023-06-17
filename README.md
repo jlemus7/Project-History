@@ -23,7 +23,9 @@ The biggest challenge that I encountered in this project was the input validatio
 SC-230 Operating Platforms
 
 Description: The Project of Operating Platforms was an introduction to systems analysis and design. This project was focused on collecting technical requirements for a web-based application “Draw it or Lose it”. The purpose of the application was to recreate the experience of the mobile version of the game, which was only available on Android. The game was loosely based on the 1980s television show "Win, Lose or Draw," where teams compete to guess what is being drawn. The application would render images from a large library of stock drawings as clues.
+
 The main challenges faced during the project included reviewing the suitability of different operating platforms (Linux, Mac, Windows, and mobile) to host the application successfully. Understanding the functionality and limitations of each platform was crucial to making informed decisions.
+
 Lessons learned during the project included the importance of identifying design constraints and creating clear instructions for both clients and developers. The domain model and UML diagrams were valuable tools for guiding the development process and ensuring a comprehensive understanding of the game's functionality before coding.
 
 ============================================================================================
@@ -31,8 +33,11 @@ Lessons learned during the project included the importance of identifying design
 CS-210 Programming Languages
 
 Description: The project aimed to develop a program that counts the frequency of grocery items purchased at a store. The purpose was to analyze the purchase data and generate a sorted list of the most frequently bought items. The program was implemented using C++ and involved file reading and writing, as well as the utilization of containers like vectors and maps.
+
 The program read a text file containing the items purchased in order and created a frequency map to track the occurrence of each item. The map was sorted in descending order based on the frequency of items, allowing the most purchased items to be displayed at the top of the list. The user interface provided options to continue displaying items or end the program, ensuring convenience and flexibility.
+
 Identifying and handling repeated words in the input file was a challenge that required efficient checking and avoidance of duplicates. The std::count() function from the C++ standard library was used to address this issue. Designing the sorting mechanism was another challenge. Since maps are designed for fast access rather than sorting, the sorted map was inserted into a vector of pairs to enable convenient access while maintaining the sorted order.
+
 Working with maps and understanding their capabilities for efficient data storage and retrieval was a valuable lesson from this project. File reading and writing techniques were learned and implemented, providing essential skills for handling external data. Exception handling was used to manage runtime errors, improving the overall robustness of the program.
 
 
