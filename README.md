@@ -18,7 +18,7 @@ Description: The final project of IT-145 was intended to demonstrate my understa
 
 The biggest challenge that I encountered in this project was the input validation part. The reason why I found this specific part challenging was that, from our initial given code, almost all, if not all, the variables and objects were of type String, which meant, the user could type anything, and it could have been easily accepted even though it was not the correct input. I consider that one of the things that I do not appreciate about Java is that we have to tell the scanner what is receiving, with scanner types like nextInt(), next().CharAt(), to name a few, even before the input is processed. Receiving the wrong type will immediately return an error which, although can be handled with exceptions, I consider affects the polymorphism of a function. To solve this problem, I created three functions dedicated to validating the user input, one that accepts only string characters from [A-Za-z]*, another one that accepts only numeric type input, and the last one that validates the format of the date, this last one was particularly harder because the input is both integers and non-letter/non-numerical characters within a string. I used if statements to validate the scanner’s content to ensure the desired input was in the scanner before continuing. In the end, I was very proud of my findings as I was able to validate every input the user entered and utilized these three functions in over twenty different processes in the Driver class.
 
-============================================================================================
+==========================================================================
 
 SC-230 Operating Platforms
 
@@ -27,8 +27,7 @@ Description: The Project of Operating Platforms was an introduction to systems a
 The main challenges faced during the project included reviewing the suitability of different operating platforms (Linux, Mac, Windows, and mobile) to host the application successfully. Understanding the functionality and limitations of each platform was crucial to making informed decisions.
 
 Lessons learned during the project included the importance of identifying design constraints and creating clear instructions for both clients and developers. The domain model and UML diagrams were valuable tools for guiding the development process and ensuring a comprehensive understanding of the game's functionality before coding.
-
-============================================================================================
+==========================================================================
 
 CS-210 Programming Languages
 
