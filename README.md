@@ -27,6 +27,7 @@ Description: The Project of Operating Platforms was an introduction to systems a
 The main challenges faced during the project included reviewing the suitability of different operating platforms (Linux, Mac, Windows, and mobile) to host the application successfully. Understanding the functionality and limitations of each platform was crucial to making informed decisions.
 
 Lessons learned during the project included the importance of identifying design constraints and creating clear instructions for both clients and developers. The domain model and UML diagrams were valuable tools for guiding the development process and ensuring a comprehensive understanding of the game's functionality before coding.
+
 ==========================================================================
 
 CS-210 Programming Languages
