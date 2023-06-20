@@ -24,11 +24,21 @@ The biggest challenge that I encountered in this project was the input validatio
 
 SC-230 Operating Platforms
 
-Description: The Project of Operating Platforms was an introduction to systems analysis and design. This project was focused on collecting technical requirements for a web-based application “Draw it or Lose it”. The purpose of the application was to recreate the experience of the mobile version of the game, which was only available on Android. The game was loosely based on the 1980s television show "Win, Lose or Draw," where teams compete to guess what is being drawn. The application would render images from a large library of stock drawings as clues.
+Description: The Gaming Room wants to develop a web-based application for their game Draw It or Lose It. This game must hold the same characteristics as their current mobile version, which is only available on Android.
+Draw It or Lose It is a game that is loosely similar to the 1980s television show “Game Win, Lose or Draw,” where teams compete to guess what is being drawn. In this game, however, the application will render images from a large library of stock drawings as clues. A game consists of four rounds of play lasting one minute each. Drawings are rendered at a steady rate and are fully complete at the 30-second mark. If the team does not guess the puzzle before time expires, the remaining teams have an opportunity to offer one guess each to solve the puzzle with a 15-second time limit.
+For this application, I was tasked to review the three traditional operating platforms (Linux, Mac, and Windows), as well as mobile platforms in order to determine which operating platform could host the application successfully.
+The application had the following requirements:
+  1.	A game can have one or multiple teams involved.
+  2.	Each team will have multiple players assigned to it.
+  3.	The game and team names must be unique.
+  4.	The user should be allowed to check whether a name is in use when choosing a name.
+  5.	Only one instance of the game can exist in memory at any given time.
+  6.	Each game must contain a unique identifier.
+
 
 The main challenges faced during the project included reviewing the suitability of different operating platforms (Linux, Mac, Windows, and mobile) to host the application successfully. Understanding the functionality and limitations of each platform was crucial to making informed decisions.
 
-Lessons learned during the project included the importance of identifying design constraints and creating clear instructions for both clients and developers. The domain model and UML diagrams were valuable tools for guiding the development process and ensuring a comprehensive understanding of the game's functionality before coding.
+Lessons learned during the project included the importance of identifying design constraints and creating clear instructions for both clients and developers. The domain model and UML diagrams were valuable tools for guiding the development process and ensuring a comprehensive understanding of the game's functionality before coding. The key aspect of a successful software design document is understanding the client’s requirements and the development limitations of both software and hardware. This was my approach to developing this design. First, it is important to understand what the client wants in the application. After the requirements have been labeled, it is important to analyze the software and hardware elements such as memory management, operating systems, databases, security, and storage to identify what requirements can be met and how. It is also important to identify potential roadblocks and constraints as well as provide a solution on how these can be eliminated. Lastly, it is important to provide recommendations for both software and hardware that can be implemented in the development of the application in order to be successful for both the user and the client.
 
 ==========================================================================
 
