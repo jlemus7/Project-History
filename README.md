@@ -4,7 +4,7 @@ This GitHub repository serves as a showcase of my past school projects, providin
 
 Table of Contents
 
-IT-145 Final Project
+IT-145 Foundation of App Development
 
 SC-230 Operating Platforms
 
@@ -14,7 +14,7 @@ CS-300 Data Structures and Algorithms
 
 ==========================================================================
 
-IT-145 Final Project
+IT-145 Foundation of App Development
 
 Description: The final project of IT-145 was intended to demonstrate my understanding of object-oriented programming principles by creating a project that utilized inheritance, polymorphism, encapsulation, and abstraction to implement a modular design. The purpose of this program was to create a system that contains information about rescue animals that are then destined as service animals. The system handles two kinds of animals Dogs and Monkeys. The system's purpose is to maintain a database of the animals in the form of array lists that contain animal objects. The program allows the user to add new monkeys and new dogs into the system, check for all the animals that are reserved, print a list of all the monkeys, and all the dogs, and print a list of the animals that are not reserved. The language used for this project is Java, and it was developed through Eclipse IDE.
 
