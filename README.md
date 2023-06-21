@@ -12,6 +12,8 @@ CS-210 Programming Languages
 
 CS-300 Data Structures and Algorithms
 
+SC-255 System Analysis and Design
+
 ==========================================================================
 
 IT-145 Foundation of App Development
@@ -56,7 +58,7 @@ Working with maps and understanding their capabilities for efficient data storag
 
 CS-300 Data Structures and Algorithms
 
-This project was intended to expand the knowledge of data structures and algorithms and how these play a role in a program’s runtime and memory management. For this project, we were asked to analyze the runtime complexity of common algorithms from three different data structures, vector, hash table, and binary search tree. The goal was to choose a data structure that proficiently stored and handled a course entity that contained a name, a course ID, and a list of prerequisites to handle requests like inserting, sorting, searching, deleting, and printing.
+Description: This project was intended to expand the knowledge of data structures and algorithms and how these play a role in a program’s runtime and memory management. For this project, we were asked to analyze the runtime complexity of common algorithms from three different data structures, vector, hash table, and binary search tree. The goal was to choose a data structure that proficiently stored and handled a course entity that contained a name, a course ID, and a list of prerequisites to handle requests like inserting, sorting, searching, deleting, and printing.
 
 In order to find the most efficient data structure, I developed pseudocode for every algorithm to be performed in the project, from reading data from an external file to printing the whole data structure to the console. I performed a runtime complexity analysis of each algorithm individually to decide which data structure was the most efficient for the kind of data that I was trying to store. I then selected a data structure and performed an overall runtime complexity analysis to determine the performance and memory management capabilities of the complete program.
 
@@ -65,6 +67,11 @@ The major roadblock of this project was to determine the runtime complexity of i
 This project has taught me a great deal about the importance of considering the underlying processes that involve running a software application. Initially, I would rely on predetermined data structures such as arrays, vectors, and maps to store data. Before this course, I used to choose a data structure based on my level of comfort without considering the overall performance of the application. Now, I have developed the skills to analyze data, its purpose, and functionality before starting to develop code and choose a data structure, which has enhanced my critical thinking and analytical skills.
 
 This project has reinforced the importance of planning when it comes to software development. Before this course, I used to start with code and use pseudocode as a supporting alternative. This project has taught me the importance of planning and analyzing a process before its implementation starts. Using pseudocode as a planning tool has made my code easier to understand and implement. This method has also reduced the time that I spend coding to less than 50%, which has also reduced the likelihood of frustration in the process. This project has also enhanced my implementation of best practices such as in-line comments and descriptions of processes between functions, which improves the readability and maintainability of my code.
+
+
+==========================================================================
+
+SC-255 System Analysis and Design
 
 
 ==========================================================================
