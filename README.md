@@ -73,6 +73,11 @@ This project has reinforced the importance of planning when it comes to software
 
 SC-255 System Analysis and Design
 
+Description: The DriverPass project is an initiative to provide better driver training and education. The client, Liam, is the founder of DriverPass and envisions a company that offers online classes, practice tests, and on-the-road training for customers seeking to improve their driving skills. The desired interface for the system is a web-based solution utilizing cloud technology to handle backup and security. The design must have the ability to generate downloadable reports and provide security measures like access control based on company roles. The system must also provide users with an account where they can manage goods and services such as appointment schedules, course material, and comments on past lessons. The system also must use an activity tracking system to know who makes changes and updates. The client also intends to comply with the state standards and regulations, and for this reason, they also want the system to communicate with the DMV on updates on driving rules and regulations.
+
+The main challenge faced in this project was the recommendation of hardware and software that could handle the system's functional, non-functional, and technical requirements based specifically on the system's needs. I approached this issue by conducting research on the technical requirements such as cloud-based systems, database services, web-based frameworks, server options, and the memory management services each option provides. After this research, I was able to provide an educated suggestion on hardware and software to begin the production and testing of the system.
+
+Some of the most important things that I learned in this course was the attention to detail and understanding of client needs. Some of the strategies that I would use in the future for system design include understanding client requirements and user needs, planning and organizing the order of tasks to be completed, understanding software hardware limitations to provide the best suggestions, and detailed decomposition of functional requirements in order to provide good documentation of the system for both the client and the development team.
 
 ==========================================================================
 
