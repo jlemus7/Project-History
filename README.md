@@ -10,16 +10,18 @@ Data Structures & Algorithms
 
 Understanding Business Requirements
 
-Programming Languages
-
 Analyzing Operating Platforms
+
+Programming Languages
 
 OOP Principles
 
 
 ==========================================================================
 
-Course: Software Development Lifecycle
+Analyzing the Software Development Lifecycle
+
+Course: SC-250 Software Development Lifecycle
 
 Objectives:
 1. Explore the stages of the Software Development Lifecycle and examine its characteristics, documentation, and purpose.
@@ -30,7 +32,9 @@ Language: Java
 
 ==========================================================================
 
-Course: Data Structures and Algorithms: Analysis and Design
+Data Structures & Algorithms
+
+Course: CS-300 Data Structures and Algorithms: Analysis and Design
 
 Objectives:
 1. Utilize problem-solving techniques to solve complex problems.
@@ -40,6 +44,8 @@ Objectives:
 Language: Java
 
 ==========================================================================
+
+Understanding Business Requirements
 
 Course: CS-255 System Analysis and Design
 
@@ -53,6 +59,8 @@ Language: N/A
 
 ==========================================================================
 
+Analyzing Operating Platforms
+
 Course: CS-230 Operating Platforms
 
 Objectives:
@@ -65,6 +73,8 @@ Language: Java
 
 ==========================================================================
 
+Programming Languages
+
 Course: CS-210 Programming Languages
 
 Objectives:
@@ -75,6 +85,8 @@ Objectives:
 Language: C++
 
 ==========================================================================
+
+OOP Principles
 
 Course: IT-145 Foundation in Application Development
 
