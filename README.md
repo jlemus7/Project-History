@@ -4,6 +4,8 @@ This GitHub repository serves as a showcase of my past school projects, providin
 
 Table of Contents
 
+Mobile App Development
+
 Analyzing the Software Development Lifecycle
 
 Data Structures & Algorithms
@@ -19,6 +21,19 @@ OOP Principles
 
 ==========================================================================
 
+Mobile App Development
+
+Course: SC-360 Mobile Architect & Programming
+
+Objectives:
+1. Understand the basics of mobile architecture and development for Android.
+2. Apply user-centered design principles and industry standards in the development of a mobile application
+3. Develop a fully functional mobile application for an Android environment.
+
+Programming language: Java
+
+==========================================================================
+
 Analyzing the Software Development Lifecycle
 
 Course: SC-250 Software Development Lifecycle
@@ -28,7 +43,7 @@ Objectives:
 2. Analyze the principles of the agile framework within the development environment.
 3. Understand the role of each member of a Scrum team and their contribution to the agile team.
 
-Language: Java
+Programming language: Java
 
 ==========================================================================
 
@@ -41,7 +56,7 @@ Objectives:
 2. Use advanced algorithmic designs to evaluate complex data structures.
 3. Use non-coding methodologies to analyze the performance of programming algorithms.
 
-Language: Java
+Programming language: Java
 
 ==========================================================================
 
@@ -55,7 +70,7 @@ Objectives:
 3. Translate user requests into business requirements for the development of systems.
 4. Learn to communicate technical concepts and design decisions to various audiences in a professional manner.
 
-Language: N/A
+Programming language: N/A
 
 ==========================================================================
 
@@ -69,7 +84,7 @@ Objectives:
 3. Learn to collect system requirements.
 4. Gain an understanding of object-oriented design patterns and their application in Java
 
-Language: Java
+Programming language: Java
 
 ==========================================================================
 
@@ -82,7 +97,7 @@ Objectives:
 2. Incorporate programming best practices within each project.
 3. Produce functional code that is secure, efficient, and professional.
 
-Language: C++
+Programming language: C++
 
 ==========================================================================
 
@@ -96,7 +111,7 @@ Objectives:
 3. Learn to write, review, and document interactive applications.
 4. Work with Software Development Kits and Integrated Development Environment tools.
 
-Language: Java
+Programming language: Java
 
 ==========================================================================
 
