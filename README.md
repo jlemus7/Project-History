@@ -4,6 +4,8 @@ This GitHub repository serves as a showcase of my past school projects, providin
 
 Table of Contents
 
+Country List
+
 Mobile App Development
 
 Analyzing the Software Development Lifecycle
@@ -21,33 +23,48 @@ OOP Principles
 
 ==========================================================================
 
-Mobile App Development
+**Country List**
+
+Course: N/A
+
+Objectives:
+1. Understand the basics of mobile architecture and development for Android.
+2. Utilize data reading techniques on URL data stored in JSON format.
+3. Apply optimization techniques in mobile environments such as DiffUtil, background tasks, and adapters to improve UI responsiveness.
+
+Programming language: Java
+
+
+==========================================================================
+
+**Mobile App Development**
 
 Course: SC-360 Mobile Architect & Programming
 
 Objectives:
 1. Understand the basics of mobile architecture and development for Android.
-2. Apply user-centered design principles and industry standards in the development of a mobile application
+2. Apply user-centered design principles and industry standards in the development of a mobile application.
 3. Develop a fully functional mobile application for an Android environment.
 
 Programming language: Java
 
 ==========================================================================
 
-Analyzing the Software Development Lifecycle
+**Analyzing the Software Development Lifecycle**
 
 Course: SC-250 Software Development Lifecycle
 
 Objectives:
 1. Explore the stages of the Software Development Lifecycle and examine its characteristics, documentation, and purpose.
 2. Analyze the principles of the agile framework within the development environment.
-3. Understand the role of each member of a Scrum team and their contribution to the agile team.
+3. Explore agile methodologies and frameworks like Scrum, Kanban, RAD, and TDD.
+4. Compare agile methodologies and their impact against other plan-driven methodologies such as waterfall.
 
 Programming language: Java
 
 ==========================================================================
 
-Data Structures & Algorithms
+**Data Structures & Algorithms**
 
 Course: CS-300 Data Structures and Algorithms: Analysis and Design
 
@@ -60,7 +77,7 @@ Programming language: Java
 
 ==========================================================================
 
-Understanding Business Requirements
+**Understanding Business Requirements**
 
 Course: CS-255 System Analysis and Design
 
@@ -74,7 +91,7 @@ Programming language: N/A
 
 ==========================================================================
 
-Analyzing Operating Platforms
+**Analyzing Operating Platforms**
 
 Course: CS-230 Operating Platforms
 
@@ -88,7 +105,7 @@ Programming language: Java
 
 ==========================================================================
 
-Programming Languages
+**Programming Languages**
 
 Course: CS-210 Programming Languages
 
@@ -101,7 +118,7 @@ Programming language: C++
 
 ==========================================================================
 
-OOP Principles
+**OOP Principles**
 
 Course: IT-145 Foundation in Application Development
 
@@ -115,7 +132,7 @@ Programming language: Java
 
 ==========================================================================
 
-Conclusion
+**Conclusion**
 
 By exploring this Project History repository, you will gain insight into my programming capabilities and witness the evolution of my skills over time. Feel free to explore the projects and their respective source code to get a comprehensive understanding of my expertise in various programming languages, technologies, and problem-solving approaches.
 For more information about me or to discuss potential collaborations, please feel free to reach out via the contact details provided in my resume.
