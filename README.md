@@ -8,11 +8,7 @@ Country List
 
 Mobile App Development
 
-Analyzing the Software Development Lifecycle
-
 Data Structures & Algorithms
-
-Understanding Business Requirements
 
 Analyzing Operating Platforms
 
@@ -50,20 +46,6 @@ Programming language: Java
 
 ==========================================================================
 
-**Analyzing the Software Development Lifecycle**
-
-Course: SC-250 Software Development Lifecycle
-
-Objectives:
-1. Explore the stages of the Software Development Lifecycle and examine its characteristics, documentation, and purpose.
-2. Analyze the principles of the agile framework within the development environment.
-3. Explore agile methodologies and frameworks like Scrum, Kanban, RAD, and TDD.
-4. Compare agile methodologies and their impact against other plan-driven methodologies such as waterfall.
-
-Programming language: Java
-
-==========================================================================
-
 **Data Structures & Algorithms**
 
 Course: CS-300 Data Structures and Algorithms: Analysis and Design
@@ -74,20 +56,6 @@ Objectives:
 3. Use non-coding methodologies to analyze the performance of programming algorithms.
 
 Programming language: Java
-
-==========================================================================
-
-**Understanding Business Requirements**
-
-Course: CS-255 System Analysis and Design
-
-Objectives:
-1. Explore the principles, methods, and techniques used in systems development.
-2. Create system models using the appropriate industry tools.
-3. Translate user requests into business requirements for the development of systems.
-4. Learn to communicate technical concepts and design decisions to various audiences in a professional manner.
-
-Programming language: N/A
 
 ==========================================================================
 
