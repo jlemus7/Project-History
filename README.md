@@ -2,15 +2,13 @@
 
 This GitHub repository serves as a showcase of my past school projects, providing an overview of my programming skills and demonstrating the breadth of my experience. Each project within this repository represents a significant milestone in my educational journey and highlights my growth as a programmer.
 
-Table of Contents
+**Table of Contents**
 
 Country List
 
 Mobile App Development
 
 Data Structures & Algorithms
-
-Analyzing Operating Platforms
 
 Programming Languages
 
@@ -54,20 +52,6 @@ Objectives:
 1. Utilize problem-solving techniques to solve complex problems.
 2. Use advanced algorithmic designs to evaluate complex data structures.
 3. Use non-coding methodologies to analyze the performance of programming algorithms.
-
-Programming language: Java
-
-==========================================================================
-
-**Analyzing Operating Platforms**
-
-Course: CS-230 Operating Platforms
-
-Objectives:
-1. Gain a deeper understanding of operating platforms.
-2. Learn to evaluate the characteristics, advantages, and disadvantages of each operating system.
-3. Learn to collect system requirements.
-4. Gain an understanding of object-oriented design patterns and their application in Java
 
 Programming language: Java
 
