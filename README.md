@@ -4,6 +4,8 @@ This GitHub repository serves as a showcase of my past school projects, providin
 
 **Table of Contents**
 
+JUnit Testing
+
 Country List
 
 Mobile App Development
@@ -17,23 +19,35 @@ OOP Principles
 
 ==========================================================================
 
+**JUnit Testing**
+
+Course: Software Test Automation & QA
+
+Objectives:
+1. Analyze various approaches to software testing based on requirements.
+2. Apply appropriate testing strategies to meet requirements.
+3. Create unit tests using code to uncover errors.
+
+Programming language: Java
+
+==========================================================================
+
 **Country List**
 
 Course: N/A
 
 Objectives:
-1. Understand the basics of mobile architecture and development for Android.
+1. Understand the basic concepts of mobile architecture and development for Android.
 2. Utilize data reading techniques on URL data stored in JSON format.
 3. Apply optimization techniques in mobile environments such as DiffUtil, background tasks, and adapters to improve UI responsiveness.
 
 Programming language: Java
 
-
 ==========================================================================
 
 **Mobile App Development**
 
-Course: SC-360 Mobile Architect & Programming
+Course: Mobile Architect & Programming
 
 Objectives:
 1. Understand the basics of mobile architecture and development for Android.
@@ -46,20 +60,20 @@ Programming language: Java
 
 **Data Structures & Algorithms**
 
-Course: CS-300 Data Structures and Algorithms: Analysis and Design
+Course: Data Structures and Algorithms: Analysis and Design
 
 Objectives:
 1. Utilize problem-solving techniques to solve complex problems.
 2. Use advanced algorithmic designs to evaluate complex data structures.
 3. Use non-coding methodologies to analyze the performance of programming algorithms.
 
-Programming language: Java
+Programming language: C++
 
 ==========================================================================
 
 **Programming Languages**
 
-Course: CS-210 Programming Languages
+Course: Programming Languages
 
 Objectives:
 1. Develop functional programs in various programming Languages
@@ -72,7 +86,7 @@ Programming language: C++
 
 **OOP Principles**
 
-Course: IT-145 Foundation in Application Development
+Course: Foundation in Application Development
 
 Objectives:
 1. Utilize programming as a problem-solving technique in business and engineering applications.
