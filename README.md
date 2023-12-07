@@ -4,6 +4,8 @@ This GitHub repository serves as a showcase of my past school projects, providin
 
 **Table of Contents**
 
+Personal Code of Ethical Conduct
+
 JUnit Testing
 
 Country List (JSON format data extraction)
@@ -16,6 +18,16 @@ Programming Languages
 
 OOP Principles
 
+
+==========================================================================
+
+**Personal Code of Ethical Conduct**
+
+Course: Ethical Hacker (CISCO)
+
+Objectives:
+1. Develop a personal code of ethical conduct specific to the penetration testing and ethical hacker profession.
+2. Demonstrate professionalism and commitment to excellence as an ethical hacker learner.
 
 ==========================================================================
 
