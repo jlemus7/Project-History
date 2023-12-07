@@ -16,7 +16,7 @@ Data Structures & Algorithms
 
 Programming Languages
 
-Object Oriented Principles
+Object-Oriented Principles
 
 
 ==========================================================================
@@ -96,7 +96,7 @@ Programming language: C++
 
 ==========================================================================
 
-**Object Oriented Principles**
+**Object-Oriented Principles**
 
 Course: Foundation in Application Development
 
