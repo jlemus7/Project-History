@@ -1,6 +1,6 @@
 # Project-History
 
-This GitHub repository serves as a showcase of my past school projects, providing an overview of my programming skills and demonstrating the breadth of my experience. Each project within this repository represents a significant milestone in my educational journey and highlights my growth as a programmer.
+This GitHub repository serves as a showcase of my school projects and personal achievements, providing an overview of my programming skills and demonstrating the breadth of my experience. Each project within this repository represents a significant milestone in my educational journey and highlights my growth as a programmer.
 
 **Table of Contents**
 
@@ -9,6 +9,8 @@ Personal Code of Ethical Conduct
 JUnit Testing
 
 Country List (JSON format data extraction)
+
+Analyzing the SDLC
 
 Mobile App Development
 
@@ -54,6 +56,32 @@ Objectives:
 3. Apply optimization techniques in mobile environments such as DiffUtil, background tasks, and adapters to improve UI responsiveness.
 
 Programming language: Java
+
+==========================================================================
+
+**Analyzing the SDLC**
+
+Course: Software Development Lifecycle
+
+Objectives:
+1. Analyze different project development methodologies.
+2. Apply Agile methodologies in all the phases of a software development project.
+3. Understand the roles of every agile team member and their contribution to the success of the project.
+
+Programming language: Java
+
+==========================================================================
+
+**Understanding Business Requirements**
+
+Course: Systems Analysis and Design
+
+Objectives:
+1. Understand the steps involved on designing a system for both technical and non-technical environments.
+2. Apply These methodologies of a software development project.
+3. Learn the process of collecting business requirements to develop a new system.
+
+Programming language: N/A
 
 ==========================================================================
 
