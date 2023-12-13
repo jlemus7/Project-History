@@ -12,6 +12,8 @@ Country List (JSON format data extraction)
 
 Analyzing the SDLC
 
+Understanding Business Requirements
+
 Mobile App Development
 
 Data Structures & Algorithms
