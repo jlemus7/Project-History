@@ -8,6 +8,8 @@ Personal Code of Ethical Conduct
 
 JUnit Testing
 
+Software Security
+
 Country List (JSON format data extraction)
 
 Analyzing the SDLC
@@ -43,6 +45,20 @@ Objectives:
 1. Analyze various approaches to software testing based on requirements.
 2. Apply appropriate testing strategies to meet requirements.
 3. Create unit tests using code to uncover errors.
+
+Programming language: Java
+
+==========================================================================
+
+**Software Security**
+
+Course: Software Security
+
+Objectives:
+1. Implement basic software security strategies on a web application.
+2. Apply checksum authentication, self-signed certificates, and dependecy checks on a web application.
+3. Understand business requirements for a web application.
+4. Analyze different types of threats on software applications: SQL injections, viruses, man in the middle attacks, and file contamination, etc.
 
 Programming language: Java
 
