@@ -48,6 +48,8 @@ Objectives:
 
 Programming language: Java
 
+![test_section](https://github.com/jlemus7/Project-History/assets/125512487/4e117415-535a-4690-b312-8bda55c3c70c)  ![test_efficiency](https://github.com/jlemus7/Project-History/assets/125512487/1617544a-054b-4810-a2d3-7a3cf0bcd9d3)
+
 ==========================================================================
 
 **Software Security**
@@ -62,6 +64,9 @@ Objectives:
 
 Programming language: Java
 
+![first_dependency](https://github.com/jlemus7/Project-History/assets/125512487/1ee43393-04ab-4d77-a2b0-25775287a109)  ![second_dependency](https://github.com/jlemus7/Project-History/assets/125512487/60ca080f-0fc8-4db2-a478-2f447e800633)
+
+
 ==========================================================================
 
 **Country List**
@@ -74,6 +79,8 @@ Objectives:
 3. Apply optimization techniques in mobile environments such as DiffUtil, background tasks, and adapters to improve UI responsiveness.
 
 Programming language: Java
+
+![JSON](https://github.com/jlemus7/Project-History/assets/125512487/c18ba74f-0a88-466d-8a9a-a479c6229fe5)    ![NoSQL](https://github.com/jlemus7/Project-History/assets/125512487/c8f7bff3-0393-41fc-b7a8-f2ff287f5991)
 
 ==========================================================================
 
@@ -110,9 +117,13 @@ Course: Mobile Architect & Programming
 Objectives:
 1. Understand the basics of mobile architecture and development for Android.
 2. Apply user-centered design principles and industry standards in the development of a mobile application.
-3. Develop a fully functional mobile application for an Android environment.
+3. Develop a fully functional mobile application for an Android environment with a minimum of 3 screens including a login screen, inventory screen, and home screen.
+4. Apply relational database strategies using SQLite database storage.
 
 Programming language: Java
+
+![login](https://github.com/jlemus7/Project-History/assets/125512487/602c41a4-83ed-427c-a6e3-1ad6b46f9678)   ![home menu](https://github.com/jlemus7/Project-History/assets/125512487/8d9074bf-e5ef-4cc8-885e-4fc558077647)
+![inventory screen](https://github.com/jlemus7/Project-History/assets/125512487/c8047035-787c-4c80-993f-b86e1c742481), ![profile screen](https://github.com/jlemus7/Project-History/assets/125512487/4fbbba6f-e6b3-4e24-9bb8-60b0378dce49)
 
 ==========================================================================
 
@@ -140,6 +151,8 @@ Objectives:
 
 Programming language: C++
 
+![Screenshot 2024-01-13 134853](https://github.com/jlemus7/Project-History/assets/125512487/89c88db2-fef9-4c88-9d88-46847eaf96e3)   ![Screenshot 2024-01-13 135002](https://github.com/jlemus7/Project-History/assets/125512487/622c546c-6521-4660-8743-f435b24c875c)
+
 ==========================================================================
 
 **Object-Oriented Principles**
@@ -153,6 +166,10 @@ Objectives:
 4. Work with Software Development Kits and Integrated Development Environment tools.
 
 Programming language: Java
+
+![Screenshot 2024-01-13 141217](https://github.com/jlemus7/Project-History/assets/125512487/c3910b60-8246-4233-a3c9-80fc26314ccb)
+
+![Screenshot 2024-01-13 141930](https://github.com/jlemus7/Project-History/assets/125512487/d0626409-6137-4597-af97-c8c1ff326d90)
 
 ==========================================================================
 
