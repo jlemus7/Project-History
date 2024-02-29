@@ -4,6 +4,8 @@ This GitHub repository serves as a showcase of my school projects and personal a
 
 **Table of Contents**
 
+Client/Server Development
+
 Personal Code of Ethical Conduct
 
 JUnit Testing
@@ -23,6 +25,26 @@ Data Structures & Algorithms
 Programming Languages
 
 Object-Oriented Principles
+
+
+==========================================================================
+
+**Client/Server Development**
+
+Course: Client/Server Development
+
+Objectives:
+1. Understand NoSQL database management strategies with MongoDB.
+2. Apply database systems concepts and principles in the development of a client/server application.
+3. Develop client-side code that interfaces with databases using the Dash framework.
+4. Reflect on the value of contributing to industry progress through open-source programming.
+
+Programming language: Python
+
+
+![image](https://github.com/jlemus7/Project-History/assets/125512487/1d8b6df6-b563-40cf-a0b8-a096a7c18510)
+
+![image](https://github.com/jlemus7/Project-History/assets/125512487/404c6dac-6d93-4e3c-8be1-796f7e39b33f)
 
 
 ==========================================================================
