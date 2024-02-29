@@ -4,7 +4,7 @@ This GitHub repository serves as a showcase of my school projects and personal a
 
 **Table of Contents**
 
-Client/Server Development
+Client-Server Development
 
 Personal Code of Ethical Conduct
 
@@ -29,7 +29,7 @@ Object-Oriented Principles
 
 ==========================================================================
 
-**Client/Server Development**
+**Client-Server Development**
 
 Course: Client/Server Development
 
