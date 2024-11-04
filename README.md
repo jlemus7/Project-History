@@ -86,8 +86,6 @@ Objectives:
 
 Programming language: Java
 
-![first_dependency](https://github.com/jlemus7/Project-History/assets/125512487/1ee43393-04ab-4d77-a2b0-25775287a109)  ![second_dependency](https://github.com/jlemus7/Project-History/assets/125512487/60ca080f-0fc8-4db2-a478-2f447e800633)
-
 
 ==========================================================================
 
